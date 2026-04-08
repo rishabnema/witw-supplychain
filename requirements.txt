@@ -3,6 +3,5 @@ pandas
 plotly
 requests
 fpdf2
-kaleido==0.1.0.post1
 openpyxl
 openai
