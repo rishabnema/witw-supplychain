@@ -1,8 +1,8 @@
-streamlit==1.32.0
+streamlit
 pandas
 plotly
 requests
 fpdf2
-kaleido
+kaleido==0.1.0.post1
 openpyxl
 openai
