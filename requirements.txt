@@ -1,0 +1,8 @@
+streamlit==1.32.0
+pandas
+plotly
+requests
+fpdf2
+kaleido
+openpyxl
+openai
